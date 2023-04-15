@@ -4,20 +4,19 @@
 
 .class{
     background-color: pink;
-    
 }
 
 #one{
-    font-size: 64px;
     color: blue;
+    font-size: 64px;
 }
 
-.class.cooler, #another{
+.cooler, #another{
     font-size: 32px;
 }
 
 
 #another{
     background-color: greenyellow;
-    font-weight: bolder;
+    font-weight: bold;
 }

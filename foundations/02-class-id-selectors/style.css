@@ -1,0 +1,23 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.class{
+    background-color: pink;
+    
+}
+
+#one{
+    font-size: 64px;
+    color: blue;
+}
+
+.class.cooler, #another{
+    font-size: 32px;
+}
+
+
+#another{
+    background-color: greenyellow;
+    font-weight: bolder;
+}

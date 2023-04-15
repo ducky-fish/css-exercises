@@ -1,13 +1,5 @@
-/*
-ap
-ad
-
-op
-od
-
-*/
 .avatar.proportioned{
-    height: 300px;
+    height: auto;
     width: 300px;
 }
 
@@ -16,10 +8,6 @@ od
     width: 200px;
 }
 
-.original{
-    height: auto;
-    width: auto;
-}
 
 
 
